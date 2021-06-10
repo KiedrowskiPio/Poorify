@@ -70,7 +70,7 @@ namespace Poorify.Controllers
                     con.Close();
                 }
             }
-            return new JsonResult("we did it");
+            return new JsonResult("Track Added");
         }
 
         [HttpPut]
@@ -100,7 +100,7 @@ namespace Poorify.Controllers
                     con.Close();
                 }
             }
-            return new JsonResult("updated");
+            return new JsonResult("Track Updated");
         }
 
         [HttpDelete("{TrackId}")]
@@ -125,7 +125,7 @@ namespace Poorify.Controllers
                     con.Close();
                 }
             }
-            return new JsonResult("deleted");
+            return new JsonResult("Track Deleted");
         }
 
         [Route("SaveFile")]

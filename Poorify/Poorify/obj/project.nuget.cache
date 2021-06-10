@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f5EBY09cg7OLTUrBJQvw6/qCZnhlnXUqEp+yNtunlabxwWNPZIwC7uZk6fWhL1ikOnkX5JuWd5KdQvghEPGGVw==",
+  "dgSpecHash": "POaznRLB1yDPEqjskwoZ4C0/3Gmlwjnz57cdx8r9wWVCdUI1JdWy1Qx8kuKc34YGGGx/1RrR6IUjnqq8nS4bFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kiedr\\source\\repos\\Poorify\\Poorify\\Poorify.csproj",
+  "projectFilePath": "P:\\Projekt Backend C#\\Poorify\\Poorify\\Poorify.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kiedr\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.6\\microsoft.aspnetcore.jsonpatch.5.0.6.nupkg.sha512",
     "C:\\Users\\kiedr\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.6\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.6.nupkg.sha512",

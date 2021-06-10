@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kiedr\\source\\repos\\Poorify\\Poorify\\Poorify.csproj": {}
+    "P:\\Projekt Backend C#\\Poorify\\Poorify\\Poorify.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kiedr\\source\\repos\\Poorify\\Poorify\\Poorify.csproj": {
+    "P:\\Projekt Backend C#\\Poorify\\Poorify\\Poorify.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kiedr\\source\\repos\\Poorify\\Poorify\\Poorify.csproj",
+        "projectUniqueName": "P:\\Projekt Backend C#\\Poorify\\Poorify\\Poorify.csproj",
         "projectName": "Poorify",
-        "projectPath": "C:\\Users\\kiedr\\source\\repos\\Poorify\\Poorify\\Poorify.csproj",
+        "projectPath": "P:\\Projekt Backend C#\\Poorify\\Poorify\\Poorify.csproj",
         "packagesPath": "C:\\Users\\kiedr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kiedr\\source\\repos\\Poorify\\Poorify\\obj\\",
+        "outputPath": "P:\\Projekt Backend C#\\Poorify\\Poorify\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kiedr\\AppData\\Roaming\\NuGet\\NuGet.Config",
